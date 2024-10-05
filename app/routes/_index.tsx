@@ -29,15 +29,15 @@ export default function Index() {
         <header className="flex flex-col items-center text-center">
           <h1 className="xs:text-2xl text-xl">Welcome to</h1>
           <h1 className="xs:text-8xl text-4xl font-bold">
-            <span className="text-primary">M</span>orfeo.finance
+            <span className="text-primary">M</span>orfeo Finance
           </h1>
           <TypeAnimation
             sequence={[
               'Your marketplace for digital assets',
               2000,
-              'Your marketplace for finding investors on-chain',
+              'Your marketplace for selling assets on-chain, globally',
               2000,
-              'Your marketplace for expanding your business',
+              'Your marketplace for expanding your business with crypto',
               2000,
               'Your marketplace for diversifying your portfolio',
               2000,
