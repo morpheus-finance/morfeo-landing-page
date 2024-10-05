@@ -4,8 +4,8 @@ import { TypeAnimation } from 'react-type-animation';
 
 export const meta: MetaFunction = () => {
   return [
-    { title: 'New Remix App' },
-    { name: 'description', content: 'Welcome to Remix!' },
+    { title: 'Morfeo Finance' },
+    { name: 'description', content: 'Your marketplace for digital assets' },
   ];
 };
 
