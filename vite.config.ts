@@ -5,11 +5,11 @@ import { defineConfig } from 'vite';
 import tsconfigPaths from 'vite-tsconfig-paths';
 
 export default defineConfig({
-  base: '/morfeo-landing-page/',
+  // base: '/morfeo-landing-page/',
   plugins: [
     remix({
       ssr: false,
-      basename: '/morfeo-landing-page/',
+      // basename: '/morfeo-landing-page/',
       future: {
         v3_fetcherPersist: true,
         v3_relativeSplatPath: true,
