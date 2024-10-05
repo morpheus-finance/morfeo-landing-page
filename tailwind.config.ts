@@ -5,6 +5,9 @@ export default {
   content: ['./app/**/{**,.client,.server}/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
+      screens: {
+        'xs': '540px'
+      },
       fontFamily: {
         sans: [
           'VT323',
